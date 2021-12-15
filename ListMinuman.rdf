@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/">
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Teh_Manis" /> 
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Milo" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Cendol" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Jeruk" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Martabe" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Jambu" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Timun" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Tomat" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Lemon" />
+      <foaf:know rdf:resource="https://www.restorangajelas.com/Jus_Apel" />
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Teh_Manis">
+        <foaf:name>Teh Manis</foaf:name>
+        <dc:price>Rp. 5.000,00</dc:price>
+        <foaf:img>https://i.pinimg.com/originals/5d/31/ef/5d31ef90cd6c389e07bc48a08e583122.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Milo">
+        <foaf:name>Milo</foaf:name>
+        <dc:price>Rp. 10.000,00</dc:price>
+        <foaf:img>http://www.sajianbunda.com/wp-content/uploads/2016/01/Resep-Minuman-Coklat-Dingin-Paling-Segar.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Cendol">
+        <foaf:name>Cendol</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>http://pm1.narvii.com/6084/7864d7ff47ab123bb881f26708282f2f0fc52a59_hq.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Jeruk">
+        <foaf:name>Jus Jeruk</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>https://img.okezone.com/content/2016/11/10/481/1537676/9-manfaat-minum-jus-jeruk-setiap-pagi-untuk-kesehatan-A77easiQz2.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Martabe">
+        <foaf:name>Jus Markisa Terong Belanda</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>https://blogunik.com/wp-content/uploads/2019/03/Jus-Martabe.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Jambu">
+        <foaf:name>Jus Jambu</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>https://1.bp.blogspot.com/-ZelRQQsqH_Q/Vd_o41dj9cI/AAAAAAAAAEQ/7AeiN16HTzs/s1600/JUS%2BJAMBU.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Timun">
+        <foaf:name>Jus Timun</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>http://1.bp.blogspot.com/-RCLf-KZaJhI/Vgagg-ElVuI/AAAAAAAAARI/bmuVeQIItYY/s1600/juice%2Blemon%252C%2Btimun.JPG<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Tomat">
+        <foaf:name>Jus Tomat</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>https://cdn-3.tstatic.net/jualbeli/img/njajal/2020/2/Jarang-Diketahui--Ternyata--Jus-Tomat-Bisa-Mengurangi-Risiko-Penyakit-Jantung-Loh-master-1155958294.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Lemon">
+        <foaf:name>Jus Lemon</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>https://ginanjarherbal.com/wp-content/uploads/2018/04/Cara-Membuat-Jus-Lemon.jpg<foaf:img>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.restorangajelas.com/Jus_Apel">
+        <foaf:name>Jus Apel</foaf:name>
+        <dc:price>Rp. 15.000,00</dc:price>
+        <foaf:img>https://1.bp.blogspot.com/-HqpMqT_cwPM/VwYnDlC3M0I/AAAAAAAAAEU/HP1w9OA_YO82TnZAwOe9sdM2zQu9Zqb-g/s1600/food-apples-green-milk-apple-sliced-fruit-juice-green-background.jpg<foaf:img>
+    </rdf:Description>
+
+</rdf:RDF>
