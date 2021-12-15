@@ -17,60 +17,70 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Nasi_goreng">
+        <dc:number>1</dc:number>
         <foaf:name>Nasi Goreng</foaf:name>
         <dc:price>Rp. 20.000,00</dc:price>
         <foaf:img>https://www.foodforfitness.co.uk/wp-content/uploads/2018/05/IMG_7741-2000x1333.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Mie_Goreng">
+        <dc:number>2</dc:number>
         <foaf:name>Mie Goreng</foaf:name>
         <dc:price>Rp.20.000,00</dc:price>
         <foaf:img>https://www.sunshineseeker.com/wp-content/uploads/2020/01/Mie-Goreng-Indonesian-Fried-Noodles.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Ayam_geprek">
+        <dc:number>3</dc:number>
         <foaf:name>Ayam Geprek</foaf:name>
         <dc:price>Rp.25.000,00</dc:price>
         <foaf:img>http://4.bp.blogspot.com/-JgNfUwMgqRw/VbjRmRPIdLI/AAAAAAAAEcE/NflHjdGXKS4/s1600/IMG_3660.JPG</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Pecel_lele">
+        <dc:number>4</dc:number>
         <foaf:name>Pecel Lele</foaf:name>
         <dc:price>Rp.22.000,00</dc:price>
         <foaf:img>http://makanansehat.biz/wp-content/uploads/2020/04/Pecel-Lele-1.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bakso">
+        <dc:number>5</dc:number>
         <foaf:name>Bakso</foaf:name>
         <dc:price>Rp. 20.000,00</dc:price>
-        <foaf:img>http://3.bp.blogspot.com/-6xB1m5cf73Q/UQdrHbZQgpI/AAAAAAAAAMI/pGi8ulQZ3LU/s1600/campkomplit.JPG</foaf:img>
+<foaf:img>http://3.bp.blogspot.com/-6xB1m5cf73Q/UQdrHbZQgpI/AAAAAAAAAMI/pGi8ulQZ3LU/s1600/campkomplit.JPG</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Gado-gado">
+        <dc:number>6</dc:number>
         <foaf:name>Gado-Gado</foaf:name>
         <dc:price>Rp. 15.000,00</dc:price>
         <foaf:img>http://www.tripcanvas.com/wp-content/uploads/2018/07/Post-17-Salad-Gado-Gado-Img2.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Opor_ayam">
+        <dc:number>7</dc:number>
         <foaf:name>Opor Ayam</foaf:name>
         <dc:price>Rp. 23.000,00</dc:price>
         <foaf:img>https://d12man5gwydfvl.cloudfront.net/wp-content/uploads/2019/04/opor-ayam-intext-image-min.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Batagor">
+        <dc:number>8</dc:number>
         <foaf:name>Batagor</foaf:name>
         <dc:price>Rp. 15.000,00</dc:price>
         <foaf:img>https://d2bysbshjoyxc1.cloudfront.net/uploads/post/image/85dfdec2-d2b8-41ed-ba37-053cd1105cde.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Sup_buntut">
+        <dc:number>9</dc:number>
         <foaf:name>Sop Buntut</foaf:name>
         <dc:price>Rp. 25.000,00</dc:price>
         <foaf:img>https://img.jakpost.net/c/2017/06/06/2017_06_06_28223_1496731424._large.jpg</foaf:img>
     </rdf:Description>
 
     <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Soto">
+        <dc:number>10</dc:number>
         <foaf:name>Soto</foaf:name>
         <dc:price>Rp. 22.000,00</dc:price>
         <foaf:img>https://www.springtomorrow.com/wp-content/uploads/2018/09/IMGP2469b.jpg</foaf:img>
