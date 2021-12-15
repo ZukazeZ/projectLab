@@ -16,13 +16,6 @@
       <foaf:know rdf:resource="https://id.wikipedia.org/wiki/Soto" />
     </rdf:Description>
 
-    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Nasi_goreng">
-        <dc:number>1</dc:number>
-        <foaf:name>Nasi Goreng</foaf:name>
-        <dc:price>Rp. 20.000,00</dc:price>
-        <foaf:img>https://www.foodforfitness.co.uk/wp-content/uploads/2018/05/IMG_7741-2000x1333.jpg</foaf:img>
-    </rdf:Description>
-
     <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Mie_Goreng">
         <dc:number>2</dc:number>
         <foaf:name>Mie Goreng</foaf:name>
